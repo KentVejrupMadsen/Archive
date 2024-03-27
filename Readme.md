@@ -12,11 +12,11 @@ You're welcome to experiement with it in 'notebooks' and etc.
 ## Overview
 * Go to content description At [this location][CONTENT_LOCATION].
 * Current Version at: V1.0.6
-* Size of dataset directory: 16.7 GB
+* Size of dataset directory: 17.2 GB
     * Dataset
         * Encoding of files in dataset directory: US-ASCII
         * First record at: 2018-09-17
-        * Last record at: 2024-01-06
+        * Last record at: 2024-03-26
         * Dataset Record File format: CSV[^7]
 
     * Formatted: None
