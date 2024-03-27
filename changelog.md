@@ -1,4 +1,9 @@
 # Changes
+## Version - 1.0.7
+Current changes logged:
+* Updating the documentation
+    * Changes to copyright
+
 ## Version - 1.0.6
 Addition of performance data to the dataset.
 
