@@ -11,7 +11,7 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 ## Overview
 * Go to content description At [this location][CONTENT_LOCATION].
-* Current Version at: V1.0.6
+* Current Version at: V1.0.7
 * Size of dataset directory: 17.2 GB
     * Dataset
         * Encoding of files in dataset directory: US-ASCII
@@ -81,7 +81,7 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 * Author: [Kent vejrup Madsen][CURRENT_ACCOUNT]
 * Contact: Kent.vejrup.madsen@designermadsen.dk
 * Changelog: [Changes][CHANGELOG_LOCATION]
-* Copyright 2024 [Kent vejrup Madsen][CURRENT_ACCOUNT]
+* Copyright 2018 - 2024 [Kent vejrup Madsen][CURRENT_ACCOUNT]
     * Licenses
         * [MIT - Source Code License][MIT_License]
         * [Dataset License - Attribution 4.0 International][ATT4INT_License]
