@@ -2,6 +2,7 @@
 ## Version - 1.0.7
 Current changes logged:
 * Updating the documentation
+    * Updated Readme.md
     * Changes to copyright
 
 * Change of the default tool, instead of OpenhardwareMonitor, i moved towards using LibreHardwareMonitor instead as a temperary solution. As OpenhardwareMonitor is deprecated and not updated anymore.
