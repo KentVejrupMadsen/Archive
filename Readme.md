@@ -35,7 +35,7 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 ### Tools
 * Files logged with 
-[OpenHardwareMonitor it can be downloaded here][DOWNLOAD_OPENHARDWARE_MONITOR], it's repository is at: [on github][OPENHARDWARE_MONITOR_GITHUB]
+    * [OpenHardwareMonitor it can be downloaded here][DOWNLOAD_OPENHARDWARE_MONITOR], it's repository is at: [on github][OPENHARDWARE_MONITOR_GITHUB]
 
 
 
