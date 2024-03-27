@@ -35,7 +35,8 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 ### Tools
 * Files logged with 
-    * [OpenHardwareMonitor it can be downloaded here][DOWNLOAD_OPENHARDWARE_MONITOR], it's repository is at: [on github][OPENHARDWARE_MONITOR_GITHUB]
+    * [LibreHardwareMonitor][DOWNLOAD_LIBRE_HARDWARE_MONITOR], It's repository is on [Github][LIBRE_HARDWARE_MONITOR_GITHUB]
+    * [OpenHardwareMonitor][DOWNLOAD_OPENHARDWARE_MONITOR], it's repository is on [Github][OPENHARDWARE_MONITOR_GITHUB]
 
 
 
@@ -166,4 +167,7 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 [CONTENT_LOCATION]: docs/contents.md
 
 [DOWNLOAD_OPENHARDWARE_MONITOR]: https://openhardwaremonitor.org/downloads/
+[DOWNLOAD_LIBRE_HARDWARE_MONITOR]: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases/tag/v0.9.3
+
 [OPENHARDWARE_MONITOR_GITHUB]: https://github.com/openhardwaremonitor/openhardwaremonitor
+[LIBRE_HARDWARE_MONITOR_GITHUB]: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
