@@ -38,8 +38,8 @@ You're welcome to experiement with it in 'notebooks' and etc.
     * [Libre Hardware Monitor][LIBRE_HARDWARE_MONITOR_GITHUB]
 
 * Files logged with: 
-    * [OpenHardwareMonitor][DOWNLOAD_OPENHARDWARE_MONITOR], it's repository on [Github][OPENHARDWARE_MONITOR_GITHUB]
-    * [LibreHardwareMonitor][DOWNLOAD_LIBRE_HARDWARE_MONITOR], It's repository on [Github][LIBRE_HARDWARE_MONITOR_GITHUB]
+    * (2024 - ?) [LibreHardwareMonitor][DOWNLOAD_LIBRE_HARDWARE_MONITOR], It's repository on [Github][LIBRE_HARDWARE_MONITOR_GITHUB]
+    * (2018 - 2024) [OpenHardwareMonitor][DOWNLOAD_OPENHARDWARE_MONITOR], it's repository on [Github][OPENHARDWARE_MONITOR_GITHUB]
 
 
 
