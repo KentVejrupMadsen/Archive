@@ -34,6 +34,7 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ### Tools
+#### Logging Tool
 * Default logger:
     * [Libre Hardware Monitor][LIBRE_HARDWARE_MONITOR_GITHUB]
 
