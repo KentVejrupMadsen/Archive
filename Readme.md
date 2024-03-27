@@ -40,7 +40,8 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ### Support
-Currently this repository only has support for CSV[^7] files. I am currently working on a solution. To have the files reformatted into other formats like JSON[^4], XML[^5] and TSV[^6].
+Currently this repository only has support for CSV[^7] files. 
+I am currently working on a solution. To have the files reformatted into other formats like JSON[^4], XML[^5] and TSV[^6].
 
 Currently in development
 * ***Formats***
