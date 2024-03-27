@@ -34,9 +34,11 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ### Tools
-* Files logged with 
-    * [LibreHardwareMonitor][DOWNLOAD_LIBRE_HARDWARE_MONITOR], It's repository is on [Github][LIBRE_HARDWARE_MONITOR_GITHUB]
-    * [OpenHardwareMonitor][DOWNLOAD_OPENHARDWARE_MONITOR], it's repository is on [Github][OPENHARDWARE_MONITOR_GITHUB]
+* Default logger:
+    * [LibreHardwareMonitor][DOWNLOAD_LIBRE_HARDWARE_MONITOR], It's repository on [Github][LIBRE_HARDWARE_MONITOR_GITHUB]
+
+* Files logged with: 
+    * [OpenHardwareMonitor][DOWNLOAD_OPENHARDWARE_MONITOR], it's repository on [Github][OPENHARDWARE_MONITOR_GITHUB]
 
 
 
