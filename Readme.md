@@ -126,9 +126,8 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 ## Foot Notes
 [^1]: sha256sum ./filepath.txt
 
-[^2]: sha256 hash checksum for zip 8567f124aadb59688785130c8d9602de1e809621e74bf582711c8ec2007ff15a
-
-[^3]: sha256 hash checksum for tar.gz 4682b2df535bd0ef7b0b3276cd4fb57f4a05d2a761aa3a50abeaf87b161f614f
+[^2]: sha256 hash checksum for zip bf47c81665dc45d513b8e1d393c04695e3978eb14b1ef39e61039335a62de9ab
+[^3]: sha256 hash checksum for tar.gz c942b748435874a28e9326190a4481256087853167eddd58f34a199d2a69c704
 
 [^4]: JavaScript Object Notation
 
