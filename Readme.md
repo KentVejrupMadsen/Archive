@@ -158,9 +158,9 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 
 [WEBARCHIVE_DATASET_TAR_GZ]: https://archive.org/download/hardware-performance-archive-12.01.2024/Archive-release-12.01.2024-1.fix.tar.gz
 
-[GITHUB_DATASET_RELEASE_LOCATION]: https://github.com/Hardware-Performance-Archive/Archive/releases/tag/release-12.01.2024-1.fix
-[GITHUB_DATASET_LOCATION_TAR_GZ]: https://github.com/Hardware-Performance-Archive/Archive/archive/refs/tags/release-12.01.2024-1.fix.tar.gz
-[GITHUB_DATASET_LOCATION_ZIP]: https://github.com/Hardware-Performance-Archive/Archive/archive/refs/tags/release-12.01.2024-1.fix.zip
+[GITHUB_DATASET_RELEASE_LOCATION]: https://github.com/HardwarePerformanceArchive/Archive/releases/tag/release-02-10-2024
+[GITHUB_DATASET_LOCATION_TAR_GZ]: https://github.com/HardwarePerformanceArchive/Archive/archive/refs/tags/release-02-10-2024.tar.gz
+[GITHUB_DATASET_LOCATION_ZIP]: https://github.com/HardwarePerformanceArchive/Archive/archive/refs/tags/release-02-10-2024.zip
 
 [ONEDRIVE_LOCATION]: https://1drv.ms/f/s!AnVSo6qhoQp5laYABj5zKFwyrllctg?e=osZ0ag
 [ONEDRIVE_ZIP_LOCATION]: 
