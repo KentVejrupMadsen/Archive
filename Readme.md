@@ -152,19 +152,28 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 <!-- Donwload Dataset Shortcut -->
 [KAGGLE_DATASET_LOCATION]: https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance
 
-[WEBARCHIVE_DATASET_LOCATION]: https://archive.org/download/data.private.performance-release-06-09-2022
-[WEBARCHIVE_DATASET_ZIP]: https://archive.org/download/hardware-performance-archive-12.01.2024/Archive-release-12.01.2024-1.fix.zip
-[WEBARCHIVE_DATASET_ZIP_CONTENT]: https://ia601207.us.archive.org/view_archive.php?archive=/13/items/hardware-performance-archive-12.01.2024/Archive-release-12.01.2024-1.fix.zip
+[WEBARCHIVE_DATASET_LOCATION]: https://archive.org/details/HPA-Version-1.0.7
 
-[WEBARCHIVE_DATASET_TAR_GZ]: https://archive.org/download/hardware-performance-archive-12.01.2024/Archive-release-12.01.2024-1.fix.tar.gz
+[WEBARCHIVE_DATASET_ZIP]: https://archive.org/download/HPA-Version-1.0.7/Archive-release-02-10-2024.zip
+[WEBARCHIVE_DATASET_ZIP_CONTENT]: https://archive.org/download/HPA-Version-1.0.7/Archive-release-02-10-2024.zip/
+
+[WEBARCHIVE_DATASET_TAR_GZ]: https://archive.org/download/HPA-Version-1.0.7/Archive-release-02-10-2024.tar.gz
+
 
 [GITHUB_DATASET_RELEASE_LOCATION]: https://github.com/HardwarePerformanceArchive/Archive/releases/tag/release-02-10-2024
-[GITHUB_DATASET_LOCATION_TAR_GZ]: https://github.com/HardwarePerformanceArchive/Archive/archive/refs/tags/release-02-10-2024.tar.gz
+
 [GITHUB_DATASET_LOCATION_ZIP]: https://github.com/HardwarePerformanceArchive/Archive/archive/refs/tags/release-02-10-2024.zip
 
+[GITHUB_DATASET_LOCATION_TAR_GZ]: https://github.com/HardwarePerformanceArchive/Archive/archive/refs/tags/release-02-10-2024.tar.gz
+
+
 [ONEDRIVE_LOCATION]: https://1drv.ms/f/s!AnVSo6qhoQp5laYABj5zKFwyrllctg?e=osZ0ag
-[ONEDRIVE_ZIP_LOCATION]: 
-[ONEDRIVE_TAR_GZ_LOCATION]: 
+
+[ONEDRIVE_ZIP_LOCATION]: https://1drv.ms/u/s!AnVSo6qhoQp5nsIZKxU2vO6eaGoW7g?e=iO8jJW
+
+[ONEDRIVE_TAR_GZ_LOCATION]: https://1drv.ms/u/s!AnVSo6qhoQp5nsIaMP4qRe3LlNyfAg?e=tcVQYZ
+
+
 
 
 [PREVIOUS_ACCOUNT]: https://github.com/KentMadsen
