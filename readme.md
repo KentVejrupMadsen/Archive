@@ -10,7 +10,7 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ## Overview
-* Current Version at: V1.0.7
+* Current Version at: V1.0.8
 * Size of dataset directory: 31.7 GB
     * Dataset
         * Encoding of files in dataset directory: US-ASCII
