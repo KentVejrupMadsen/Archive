@@ -128,7 +128,7 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 [MYSQL_URL]: https://www.mysql.com/
 [POSTGRESQL_URL]: https://www.postgresql.org/
 
-[Cover_Image]: docs/resources/covers/800x600.jpg
+[Cover_Image]: .github/covers/800x600.jpg
 
 [MIT_License]: License.md
 [ATT4INT_License]: License.md  
