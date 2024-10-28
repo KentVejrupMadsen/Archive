@@ -10,7 +10,6 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ## Overview
-* Go to content description At [this location][CONTENT_LOCATION].
 * Current Version at: V1.0.7
 * Size of dataset directory: 31.7 GB
     * Dataset
@@ -162,8 +161,7 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 [PREVIOUS_ACCOUNT]: https://github.com/KentMadsen
 [CURRENT_ACCOUNT]: https://github.com/KentVejrupMadsen
 
-[CHANGELOG_LOCATION]: docs/changelog.md
-[CONTENT_LOCATION]: docs/contents.md
+[CHANGELOG_LOCATION]: changelog.md
 
 [DOWNLOAD_OPENHARDWARE_MONITOR]: https://openhardwaremonitor.org/downloads/
 [DOWNLOAD_LIBRE_HARDWARE_MONITOR]: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases/tag/v0.9.3
