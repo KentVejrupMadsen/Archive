@@ -1,8 +1,4 @@
-[GROUP_ACCOUNT]: https://github.com/HardwarePerformanceArchive
-
 # DataSet License
-Copyright 2018 - 2024 [Hardware Performance Archive][GROUP_ACCOUNT]
-
 ## Creative Commons Attribution 4.0
 ### International
 Creative Commons Corporation ("Creative Commons") is not a law firm and
